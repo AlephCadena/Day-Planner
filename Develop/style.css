@@ -52,21 +52,6 @@ textarea:focus {
   text-align: right;
 }
 
-.past {
-  background-color: lightgray ;
-  color: black;
-}
-
-.present {
-  background-color: red ;
-  color: white;
-}
-
-.future {
-  background-color: greenyellow ;
-  color: white;
-}
-
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
